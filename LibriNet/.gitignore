@@ -1,0 +1,32 @@
+
+# Node modules
+node_modules/
+
+# Next.js build
+.next/
+
+# Output folders
+dist/
+build/
+
+# Env files
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# Specific large file ignore
+node_modules/@next/svc-win32-x64-msvc/next-svc.win32-x64-msvc.node
+
+"node_modules/@next/svc-win32-x64-msvc/next-svc.win32-x64-msvc.node" 
+"node_modules/" 
+"node_modules/" 
+node_modules
+
